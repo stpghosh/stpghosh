@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-ghosh-109863352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu ghosh" height="30" width="40" /></a>
-<a href="https://fb.com/soman ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soman ghosh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/soman.ghosh.1217?mibextid=rS40aB7S9Ucbxw6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soman ghosh" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshu_ghosh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_ghosh7" height="30" width="40" /></a>
 </p>
 
